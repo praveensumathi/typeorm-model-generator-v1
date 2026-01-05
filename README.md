@@ -1,3 +1,6 @@
+## Changes on V1
+* feature: Added Auto mapper Decorator, Import automapper classes
+
 # typeorm-model-generator
 
 [![npm version](https://badge.fury.io/js/typeorm-model-generator.svg)](https://badge.fury.io/js/typeorm-model-generator)
